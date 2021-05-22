@@ -1,0 +1,14 @@
+{
+    "name": "Mint-o-Matic",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "single",
+        "/category/collection/entity": true
+    }
+}
